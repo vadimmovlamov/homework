@@ -3,7 +3,7 @@ package hw2_3_Color;
 import java.awt.*;
 import java.util.Scanner;
 
-public class Main {
+/*public class Main {
     public static void main(String[] args) {
         System.out.println("Введите число для определения цвета: ");
         Scanner scan = new Scanner(System.in);
@@ -16,4 +16,4 @@ public class Main {
         int numberColor1 = scan1.nextInt();
         System.out.println("Цвет получился: "color.getNameColor());
     }
-}
+}*/

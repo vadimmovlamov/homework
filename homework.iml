@@ -13,7 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/hw3_3_1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/hw3_3_2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/warmup_1" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
