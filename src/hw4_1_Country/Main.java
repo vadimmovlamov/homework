@@ -1,5 +1,7 @@
 package hw4_1_Country;
 
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
         Country poland = Country.POLAND;
@@ -26,7 +28,7 @@ public class Main {
 
 
 
-/*    public static void print(){
-        System.out.println(_____-);
+    public static void print(){
+        System.out.println(Array.asList);
     }*/
 }
