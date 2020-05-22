@@ -7,13 +7,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src/homework1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/homework2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/homewor2" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/hw3_2_1" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/hw3_2_2" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/hw3_2_3" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/hw3_3_1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/hw3_3_2" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/warmup_1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/src/hw3_2_1" />
+      <excludeFolder url="file://$MODULE_DIR$/src/hw3_2_2" />
+      <excludeFolder url="file://$MODULE_DIR$/src/hw3_2_3" />
+      <excludeFolder url="file://$MODULE_DIR$/src/hw3_3_1" />
+      <excludeFolder url="file://$MODULE_DIR$/src/warmup_1" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

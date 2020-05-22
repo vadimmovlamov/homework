@@ -27,8 +27,7 @@ public class Main {
     }
 
 
-
-    public static void print(){
+ /*   public static void print(){
         System.out.println(Array.asList);
     }*/
 }
