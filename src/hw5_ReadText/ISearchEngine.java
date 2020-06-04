@@ -9,25 +9,9 @@ package hw5_ReadText;
 import java.util.ArrayList;
 
 public interface ISearchEngine {
-    String Search(String masstr, String word);
+    String Search(String str, String word);
 
 // а возвращать число (количество найденных совпадений). ???
 }
     
     
-    
-    
-    
-
-//    String Search(String masstr, String word);
-//    public void int id;
-//    public void String Search(String masstr);
-//    public void String Search(String word);
-
-//public void int id;
-    // String search(ArrayList<String> masstr, String word);
-
-
-/* public interface ISearchEngine {
-        String Search(String masstr, String word);
- */

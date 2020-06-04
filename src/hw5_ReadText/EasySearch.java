@@ -4,7 +4,7 @@ package hw5_ReadText;
  */
 public class EasySearch implements ISearchEngine{
     @Override
-    public String Search(String masstr, String word) {
+    public String Search(String str, String word) {
         return null;
     }
 }
